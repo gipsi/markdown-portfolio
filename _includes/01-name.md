@@ -1,1 +1,3 @@
-# gipsi
+# Gipsi
+## Web Developer
+###### Climate Crisis aware 🌎
